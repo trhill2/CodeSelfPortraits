@@ -14,7 +14,6 @@ function setup() {
 // Draw code goes here
 function draw() {
   background(164,172,134);
-  
   drawEar();
   drawEarrings();
   drawShirt();
@@ -117,10 +116,10 @@ function drawPupiltwo() {
 
 
 
-function drawDebugInfo() {
+/*function drawDebugInfo() {
   fill(0,255,0);
   text( "X: "+ mouseX + " Y: " + mouseY,20,height-20);   
-}
+}*/
 
 //DRAW HAIR LEFT
 function drawHair(){
@@ -198,7 +197,7 @@ function drawCapbeanie(){
     ellipse(317,349,3,3);
   }
 
-//NOSE
+  //NOSE
   function drawNose(){
     noFill();
     strokeWeight(4);

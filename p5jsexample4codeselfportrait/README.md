@@ -1,13 +1,13 @@
-## Empty Example for P5.js
-#### by Scott Kildall
-#### Last updated Jan 24 2022
+## Coded Self Portraits
+#### by Tyisha Hill 
+#### Last updated Feb 9 2022
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
+This project was done using p5.js to code self portrait based on an original sketch.  
 
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+Many features were utilized by using its own separate draw function. 
